@@ -16,7 +16,9 @@
   #text(
     size: 18pt,
     weight: "bold",
-  )[Robotic Process Automation]
+  )[Robotic Process Automation
+  
+  Auswirkungen auf Prozessqualität, Effizienz und Mitarbeitende]
   \
   \
   \
@@ -56,8 +58,8 @@ Referent: Dr. Nadine Baumann
 
 #text(font: "Arial", size: 11pt)[
   #set par(justify: true)
-  Mit der Digitalisierung wächst der Einsatz von Robotic Process Automation (RPA), einer seit in den frühen 2000er-Jahren entwickelten Technologie zur Automatisierung regelbasierter Routinetätigkeiten. Obwohl Unternehmen sich davon höhere Prozessqualität, Effizienz und eine Entlastung der Mitarbeitenden versprechen @article1, ist bislang unklar, wie stark und in welcher Form diese Effekte tatsächlich in Geschäftsprozessen auftreten, an denen Mitarbeitende unmittelbar beteiligt sind. Dazu zählen operative Kernprozesse sowie Supportprozesse. 
-  Forschung zeigt hier widersprüchliche Ergebnisse @inproceedings1 @article2 @inbook1, wodurch ein Bedarf an systematischer Untersuchung besteht @article3.
+  Mit der Digitalisierung wächst der Einsatz von Robotic Process Automation (RPA), einer seit in den frühen 2000er-Jahren entwickelten Technologie zur Automatisierung regelbasierter Routinetätigkeiten. Obwohl Unternehmen sich davon höhere Prozessqualität, Effizienz und eine Entlastung der Mitarbeitenden versprechen @RPAScientificAndIndustrialMapping, ist bislang unklar, wie stark und in welcher Form diese Effekte tatsächlich in Geschäftsprozessen auftreten, an denen Mitarbeitende unmittelbar beteiligt sind. Dazu zählen operative Kernprozesse sowie Supportprozesse. 
+  Forschung zeigt hier widersprüchliche Ergebnisse @EffectsRPA, wodurch ein Bedarf an systematischer Untersuchung besteht.
 ]
 
 #text(size: 11pt, weight: "bold", font: "Arial")[2. Forschungsstand]
@@ -65,7 +67,7 @@ Referent: Dr. Nadine Baumann
 #text(font: "Arial", size: 11pt)[
   #set par(justify: true)
   RPA wird häufig technologisch und aus Effizienzperspektiven beschrieben. 
-   Studien weisen auf Zeit- und Fehlerreduktion hin. Gleichzeitig ist der Einfluss auf Prozessqualität, Effizienzkennzahlen und insbesondere die Mitarbeiterzufriedenheit noch unzureichend geklärt. Vor allem fehlen Untersuchungen, die technischen Leistungsdaten und die Wahrnehmung der Mitarbeitenden gleichermaßen erfassen. Die vorliegenden Befunde sind heterogen, sodass die Forschungslücke hinsichtlich einer integrierten Betrachtung besteht.
+   Studien weisen auf Zeit- und Fehlerreduktion hin. Gleichzeitig ist der Einfluss auf Prozessqualität, Effiz- ienzkennzahlen und insbesondere die Mitarbeiterzufriedenheit noch unzureichend geklärt. Vor allem fehlen Untersuchungen, die technischen Leistungsdaten und die Wahrnehmung der Mitarbeitenden gleichermaßen erfassen. Die vorliegenden Befunde sind heterogen, sodass die Forschungslücke hinsichtlich einer integrierten Betrachtung besteht.
 ]
 
 #text(size: 11pt, weight: "bold", font: "Arial")[3. Fragestellung]
