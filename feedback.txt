@@ -1,0 +1,9 @@
+Feedback zum Exposé: Process Mining zur Prozessoptimierung
+Das Exposé behandelt ein hochaktuelles und praxisrelevantes Thema mit klarer Struktur und deckt alle wesentlichen Elemente ab.
+Von der Problemstellung über den Forschungsstand bis hin zur Zielsetzung. 
+Besonders positiv hervorzuheben ist die Integration von Large Language Models in Process Mining, die der Arbeit eine aktuelle Relevanz verleiht und Bewusstsein für neueste Entwicklungen im Forschungsfeld zeigt. 
+Die umfangreiche Literaturgrundlage umfasst sowohl grundlegende Werke, als auch aktuelle Forschungen zur Rolle von LLMs im Process Mining-Kontext.
+
+Der logische Aufbau des Exposés ermöglicht ein gutes Verständnis der geplanten Untersuchung. 
+Die Fokussierung auf konkrete Handlungsempfehlungen und Best Practices für unterschiedliche Prozessarten unterstreicht den Praxisbezug der Arbeit. 
+Die Verknüpfung theoretischer Grundlagen mit Erkenntnissen durch Studien verspricht einen ausgewogenen Forschungsansatz.
