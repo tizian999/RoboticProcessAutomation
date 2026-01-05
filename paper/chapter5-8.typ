@@ -30,29 +30,29 @@ Die stärksten Effekte lassen sich in Supportprozessen beobachten, die durch hoh
 = 6 Diskussion
 
 == 6.1 Interpretation der Ergebnisse im Theoriekontext
-Die Ergebnisse bestätigen zentrale Annahmen der Prozess- und Effizienztheorie, wonach Standardisierung und Regelgebundenheit wesentliche Treiber für Leistungssteigerungen sind. Gleichzeitig stützen die Befunde motivationstheoretische Ansätze, die von einer ambivalenten Wirkung technologischer Veränderungen auf die Arbeitszufriedenheit ausgehen. Aus Perspektive der Technologieakzeptanz zeigt sich deutlich, dass wahrgenommene Nützlichkeit und Einbindung maßgeblich die Akzeptanz prägen.
+Die Ergebnisse bestätigen zentrale Annahmen der Prozess- und Effizienztheorie, wonach Standardisierung und Regelgebundenheit wesentliche Treiber für Leistungssteigerungen sind. Gleichzeitig stützen die Befunde motivationstheoretische Ansätze, die von einer ambivalenten Wirkung technologischer Veränderungen auf die Arbeitszufriedenheit ausgehen. Aus Perspektive der Technologieakzeptanz zeigt sich deutlich, dass wahrgenommene Nützlichkeit und Einbindung maßgeblich die Akzeptanz prägen @Davis1989TAM.
 == 6.2 Zielkonflikte zwischen Qualität, Effizienz und Mitarbeiterperspektive
 Die Analyse macht deutlich, dass zwischen den Zielgrößen Effizienz, Qualität und Mitarbeiterzufriedenheit Spannungsfelder bestehen. Effizienzsteigerung geht nicht automatisch mit Qualitätsverbesserung einher und kann unter ungünstigen Bedingungen sogar zu höheren Belastungen führen. Erfolgreiche RPA-Einführungen balancieren ökonomische und arbeitsbezogene Ziele aus, anstatt sie gegeneinander auszuspielen.
 == 6.3 Einordnung in den aktuellen Forschungsstand
-Die vorliegenden Ergebnisse bestätigen die Tendenz bisheriger Forschung, differenzieren sie jedoch insofern, als sie technische und menschliche Wirkdimensionen integrieren. Besonders deutlich wird die Kontextabhängigkeit der Effekte. RPA ist kein generisches Instrument, sondern wirkt unterschiedlich je nach Prozessreife, Organisationskultur und Einführungsstrategie.
+Die vorliegenden Ergebnisse bestätigen die Tendenz bisheriger Forschung, differenzieren sie jedoch insofern, als sie technische und menschliche Komponenten integrieren. Besonders deutlich wird die Kontextabhängigkeit der Effekte. RPA ist kein generisches Instrument, sondern wirkt unterschiedlich je nach Prozessreife, Organisationskultur und Einführungsstrategie.
 == 6.4 Kritische Reflexion und Limitationen
 Die Untersuchung basiert ausschließlich auf vorhandener Literatur. Die Ergebnisse sind daher abhängig von Qualität und Schwerpunktsetzung der analysierten Studien. Zudem liegen nur wenige langfristige Untersuchungen vor. Kausale Zusammenhänge können deshalb lediglich eingeschränkt abgeleitet werden.
 
-= 7 Handlungsempfehlungen für Unternehmen
+= 7 Handlungsmöglichkeiten für Unternehmen
 
-Unternehmen sollten RPA nicht isoliert als technische Lösung verstehen, sondern als Bestandteil eines umfassenden organisatorischen Veränderungsprozesses. Vor der Implementierung empfiehlt sich eine sorgfältige Analyse der Prozessreife sowie der Ausnahmequote. Nur klar strukturierte Prozesse eignen sich unmittelbar für die Automatisierung.
+Unternehmen sollten RPA nicht isoliert als technische Lösung betrachten, sondern als Bestandteil eines umfassenden organisatorischen Veränderungsprozesses. Vor der Implementierung empfiehlt sich eine sorgfältige Analyse der Prozessreife sowie der Ausnahmequote. Nur klar strukturierte Prozesse eignen sich unmittelbar für die Automatisierung.
 
 Darüber hinaus zeigt die Analyse, dass eine frühzeitige Einbindung der Mitarbeitenden entscheidend für die Akzeptanz ist. RPA sollte als Unterstützung und nicht als Ersatz kommuniziert werden. Qualifizierungsprogramme tragen wesentlich dazu bei, technologische Unsicherheiten abzubauen und neue Kompetenzanforderungen zu erfüllen.
 
-Ebenfalls zentral ist der Aufbau einer Governance-Struktur. Dazu zählen klare Verantwortlichkeiten, kontinuierliches Monitoring sowie eine systematische Weiterentwicklung der automatisierten Prozesse. RPA entfaltet seine volle Wirkung vor allem dann, wenn es dauerhaft gepflegt und an sich wandelnde Rahmenbedingungen angepasst wird.
+Ebenfalls zentral ist der Aufbau einer Governance-Struktur. Dazu zählen klare Verantwortlichkeiten, kontinuierliches Monitoring sowie eine systematische Weiterentwicklung der automatisierten Prozesse. RPA entfaltet seine volle Wirkung vor allem dann, wenn es dauerhaft gepflegt und an sich wandelnde Rahmenbedingungen angepasst wird @Lacity2021RPA.
 
 Langfristiger Erfolg entsteht, wenn Automatisierung strategisch verankert wird und nicht nur punktuell angewendet wird. Entscheidend ist ein ganzheitlicher Blick auf Technik, Prozessorganisation und Mensch-Technik-Interaktion.
 
 = 8 Fazit und Ausblick
 
 == 8.1 Beantwortung der Forschungsfrage
-Die Analyse zeigt, dass der Einsatz von RPA einen deutlichen Einfluss auf digitale Geschäftsprozesse hat. Prozessqualität und Effizienz können insbesondere in standardisierten und strukturierten Abläufen signifikant verbessert werden. Die Auswirkungen auf Mitarbeitende sind jedoch ambivalent und stark kontextabhängig. RPA erweist sich damit als wirkungsvolles, aber sensibles Gestaltungsinstrument der digitalen Transformation.
+Die Analyse zeigt, dass der Einsatz von RPA einen deutlichen Einfluss auf digitale Geschäftsprozesse hat. Prozessqualität und Effizienz können insbesondere in standardisierten und strukturierten Abläufen signifikant verbessert werden. Die Auswirkungen auf Mitarbeitende sind jedoch ambivalent und stark kontextabhängig. RPA erweist sich damit als wirkungsvolles, aber sensibles Gestaltungsinstrument der digitalen Transformation @EffectsRPA @Nielsen2023RPABenefits.
 == 8.2 Implikationen für Forschung und Praxis
 Für die Praxis bedeutet dies, dass Automatisierung nur dann nachhaltig erfolgreich ist, wenn neben technischen und ökonomischen Zielen auch arbeitswissenschaftliche Aspekte berücksichtigt werden. Für die Forschung ergibt sich ein Bedarf an integrierten, theoriegeleiteten Studien, die sowohl objektive Prozesskennzahlen als auch subjektive Wahrnehmungen systematisch erfassen.
 == 8.3 Ausblick: Intelligent Automation und KI-Integration
-Mit der zunehmenden Integration von KI-Technologien entwickelt sich RPA perspektivisch zu „Intelligent Automation“. Dadurch erweitert sich das Einsatzspektrum auf weniger strukturierte Prozesse. Gleichzeitig steigen jedoch die Anforderungen an Governance, Transparenz und Qualifizierung. Der Mensch wird künftig weniger operativ ausführen, sondern zunehmend koordinieren, entscheiden und verantworten.
+Mit der zunehmenden Integration von KI-Technologien entwickelt sich RPA perspektivisch zu „Intelligent Automation“. Dadurch erweitert sich das Einsatzspektrum auf weniger strukturierte Prozesse. Gleichzeitig steigen jedoch die Anforderungen an Governance, Transparenz und Qualifizierung. Der Mensch wird künftig weniger operativ ausführen, sondern zunehmend koordinieren, entscheiden und verantworten @Syed2020IPA.
