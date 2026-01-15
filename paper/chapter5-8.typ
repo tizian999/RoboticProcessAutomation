@@ -34,7 +34,7 @@ Zusammenfassend zeigt die erweiterte Analyse, dass RPA signifikante quantitative
 = Diskussion <Kapitel7>
 
 == Interpretation der Ergebnisse im Theoriekontext
-Die Ergebnisse bestätigen zentrale Annahmen der Prozess- und Effizienztheorie, wonach Standardisierung und Regelgebundenheit wesentliche Treiber für Leistungssteigerungen sind. Technologische Veränderungen können sich sowohl positiv als auch negativ auf die Arbeitszufriedenheit auswirken. Genau diese ambivalente Wirkung wird auch von motivationstheoretischen Ansätzen beschrieben. Die Verlagerung von monotonen Aufgaben auf komplexere analytische Tätigkeiten, fördert die Akzeptanz gegenüber RPA deutlich. @Davis1989TAM.
+Die Ergebnisse bestätigen zentrale Annahmen der Prozess- und Effizienztheorie, wonach Standardisierung und Regelgebundenheit wesentliche Treiber für Leistungssteigerungen sind. Technologische Veränderungen können sich sowohl positiv als auch negativ auf die Arbeitszufriedenheit auswirken. Genau diese ambivalente Wirkung wird auch von motivationstheoretischen Ansätzen beschrieben. Die Verlagerung von monotonen Aufgaben auf komplexere analytische Tätigkeiten, fördert nach dem Technology Acceptance Model die Akzeptanz gegenüber RPA deutlich @Davis1989TAM.
 == Zielkonflikte zwischen Qualität, Effizienz und Mitarbeiterperspektive
 Die Analyse macht klar, dass zwischen den Zielgrößen Effizienz, Qualität und Mitarbeiterzufriedenheit Spannungsfelder bestehen. Effizienzsteigerung geht nicht automatisch mit Qualitätsverbesserung einher und kann unter ungünstigen Bedingungen sogar zu höheren Belastungen führen. Erfolgreiche RPA-Einführungen balancieren ökonomische und arbeitsbezogene Ziele aus, anstatt sie gegeneinander auszuspielen.
 == Einordnung in den aktuellen Forschungsstand

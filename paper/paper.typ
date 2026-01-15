@@ -1,7 +1,7 @@
  #set par(
   justify: true,
 )
-#set heading(numbering: "1.")
+#set heading(numbering: "1.", supplement: "Abschnitt")
 #align(center)[
   \
 
