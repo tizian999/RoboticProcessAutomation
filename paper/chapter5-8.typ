@@ -42,7 +42,7 @@ Die vorliegenden Ergebnisse bestätigen die Tendenz bisheriger Forschung, differ
 == Kritische Reflexion und Limitationen <Kapitel7.4>  
 Die Untersuchung basiert ausschließlich auf vorhandener Literatur. Die Ergebnisse sind daher abhängig von Qualität und Schwerpunktsetzung der analysierten Studien. Zudem liegen nur wenige langfristige Untersuchungen vor. Kausale Zusammenhänge können deshalb lediglich eingeschränkt abgeleitet werden.
 
-= Handlungsmöglichkeiten für Unternehmen <Kaptiel8>
+= Handlungsmöglichkeiten für Unternehmen <Kapitel8>
 
 Unternehmen sollten RPA nicht isoliert als technische Lösung betrachten, sondern als Bestandteil eines umfassenden organisatorischen Veränderungsprozesses. Vor der Implementierung empfiehlt sich eine sorgfältige Analyse der Prozessreife sowie der Ausnahmequote. Nur klar strukturierte Prozesse eignen sich unmittelbar für die Automatisierung.
 
