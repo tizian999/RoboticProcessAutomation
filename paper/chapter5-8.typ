@@ -1,4 +1,4 @@
-= Analyse: Auswirkungen von RPA auf digitale Geschäftsprozesse <Kapitel6>
+= Analyse: Auswirkungen von RPA auf digitale #linebreak()Geschäftsprozesse <Kapitel6>
 In diesem Kapitel werden die identifizierten empirischen Befunde zu den Auswirkungen von Robotic Process Automation (RPA) vertieft analysiert. Im Vergleich zur bisherigen Darstellung werden die Ergebnisse stärker quantifiziert und durch konkrete Kennzahlen aus der Literatur untermauert. Die Analyse folgt weiterhin den drei zentralen Dimensionen Prozessqualität, Effizienz und Mitarbeitende.
 
 == Auswirkungen auf Prozessqualität <Kapitel6.1>
@@ -59,4 +59,4 @@ Die Analyse zeigt, dass der Einsatz von RPA einen deutlichen Einfluss auf digita
 == Implikationen für Forschung und Praxis <Kapitel9.2> 
 Für die Praxis bedeutet dies, dass Automatisierung nur dann nachhaltig erfolgreich ist, wenn neben technischen und ökonomischen Zielen auch arbeitswissenschaftliche Aspekte berücksichtigt werden. Für die Forschung ergibt sich ein Bedarf an integrierten, theoriegeleiteten Studien, die sowohl objektive Prozesskennzahlen als auch subjektive Wahrnehmungen systematisch erfassen.
 == Ausblick: Intelligent Automation und KI-Integration <Kapitel9.3>
-Mit der zunehmenden Integration von KI-Technologien entwickelt sich RPA perspektivisch zu „Intelligent Automation“. Dadurch erweitert sich das Einsatzspektrum auf weniger strukturierte Prozesse. Gleichzeitig steigen jedoch die Anforderungen an Governance, Transparenz und Qualifizierung. Der Mensch wird künftig weniger operativ ausführen, sondern zunehmend koordinieren, entscheiden und verantworten @Syed2020IPA.
+Mit der zunehmenden Integration von KI-Technologien entwickelt sich RPA perspektivisch zu „Intelligent Automation“. Dadurch erweitert sich das Einsatzspektrum auf weniger strukturierte Prozesse. Gleichzeitig steigen jedoch die Anforderungen an Governance, Transparenz und Qualifizierung. Der Mensch wird künftig weniger operativ ausführen, sondern zunehmend koordinieren, entscheiden und verantworten @Siderska2023IA.
